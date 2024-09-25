@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    border-bottom: 2px solid hsl(0, 0%, 83%);
+    margin-bottom: 5px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+}
+.product-name{
+    color: rgb(0, 0, 255);
+    font-weight: 400;
+}
+.main-button{
+    background-color: hsl(43, 74%, 49%);
+    width: 100px;
+    height: 30px;
+    border: 1px solid hwb(0 66% 34%);
+    border-radius: 5px;
+    cursor: pointer;
+}
